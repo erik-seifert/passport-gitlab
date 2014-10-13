@@ -1,0 +1,16 @@
+{
+  "name": "passport-gitlab",
+  "version": "0.1.0",
+  "description": "Passport strategy for gitlab",
+  "main": "./lib",
+  "dependencies": {
+    "passport-strategy": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.5",
+    "chai": "~1.9.2"
+  }
+}
